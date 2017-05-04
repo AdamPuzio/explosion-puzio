@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<title>Explosion</title>
+	<meta name="description" content="NWB Explosion 14U - Puzio" />
+	<meta name="keywords" content="" />
+
+	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans|Candal|Alegreya+Sans">
+	<link rel="stylesheet" type="text/css" href="/assets/css/font-awesome.min.css" />
+	<link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css" />
+	<link rel="stylesheet" type="text/css" href="/assets/css/site.css" />
+</head>
+<body data-spy="scroll" data-target=".navbar" data-offset="60">
+	
+	<!-- Navigation -->
+	{> "elements/nav/main-nav" /}
+	<!--/ Navigation -->
+	
+	{+bodyContent /}
+	
+	<!-- Footer -->
+	{> "elements/nav/footer" /}
+	<!--/ Footer -->
+    
+	<script src="/assets/js/jquery.min.js"></script>
+	<script src="/assets/js/jquery.easing.min.js"></script>
+	<script src="/assets/js/bootstrap.min.js"></script>
+	<script src="/assets/js/custom.js"></script>
+    
+</body>
+</html>

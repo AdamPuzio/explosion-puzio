@@ -1,0 +1,146 @@
+{> "wrappers/main" /}
+
+{<bodyContent}
+
+	<!--Banner-->
+	<div class="banner" style="background-image:url(/assets/img/background/softball-baseball-ball-sport-54330.jpg);">
+		<div class="bg-mask">
+			<div class="container">
+				<div class="row">
+					<div class="banner-text text-center">
+						<div class="intro-para text-center quote">
+							<h1 class="primary-color">Softball is more than a game</h1>
+							<p class="lead">
+								It's an investment in our youth and an opportunity to show them how to succeed, not just on the field, but in the classroom, in the workplace, and in life. 
+							</p>
+							<a href="/about" class="btn">See What We're About</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--/ Banner-->
+	
+	<!-- Intro -->
+	<section id="intro" class="section-padding">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6">
+					<img src="assets/img/poster/v1c.jpg" style="width:100%;" />
+				</div>
+				<div class="col-md-6">
+					<div class="detail-info">
+						<hgroup>
+							<h3 class="text-center">NW Bethlehem Explosion</h3>
+							<h4 class="text-center">2016-17 14U - Puzio</h4>
+						</hgroup>
+						<p class="">
+							From the Northwest Youth Athletic Association in Bethlehem, the Explosion organization is home to some of the top tournament teams in the Lehigh Valley. Among those is the Explosion 14U - Puzio team, made up of 10 young women whose character and work ethic is preparing them for the games they play today, as well as the challenges they'll face tomorrow. 
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!--/ Intro -->
+	
+	<!-- Spring Schedule -->
+	<section id="spring_schedule" class="section-padding">
+		<div class="container">
+			
+			<div class="row header">
+				<div class="col-md-12">
+					<h2>Spring Schedule</h2>
+					<p>2017 Spring/Summer Schedule</p>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="col-md-12">
+					<h4>May</h4>
+					<dl class="dl-horizontal">
+						<dt>May 6-7</dt>
+						<dd>Bethlehem, PA - Explosion in the Christmas City Tournament</dd>
+						<dt>May 20-21</dt>
+						<dd>Quakertown, PA - Line Drive Tournament</dd>
+					</dl>
+					
+					<h4>June</h4>
+					<dl class="dl-horizontal">
+						<dt>June 3-4</dt>
+						<dd>Lansdale, PA - June Jamboree Tournament</dd>
+						<dt>June 10-11</dt>
+						<dd>Bethlehem, PA - (16U) Fun in the Sun Tournament</dd>
+						<dt>June 24-25</dt>
+						<dd>Quakertown, PA - USSSA States</dd>
+					</dl>
+					
+					<h4>July</h4>
+					<dl class="dl-horizontal">
+						<dt>July 1-2</dt>
+						<dd>Lansdale, PA - Fireworks Classic Tournament</dd>
+						<dt>July 18-23</dt>
+						<dd>Ocean City, MD - USSSA Nationals</dd>
+					</dl>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!--/ Spring Schedule -->
+	
+	<!-- Team Events -->
+	<section id="team_events" class="section-padding feature-section">
+		<div class="container">
+			
+			<div class="row header">
+				<div class="col-md-12">
+					<h2>Team Events</h2>
+					<p>Some of what we've done as a team...</p>
+				</div>
+			</div>
+			
+			<div class="row feature">
+				<div class="col-md-6 info">
+					<h4>American Heart Association Walk</h4>
+					<p>
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut aliquet eros at mi hendrerit fermentum at ac neque. Vivamus mattis lectus nec est ullamcorper, non lobortis erat tincidunt. Aenean scelerisque augue vitae lectus malesuada, ut eleifend eros pellentesque. Donec efficitur luctus justo. Vivamus leo diam, mattis eget rhoncus in, convallis a urna. Nullam non pretium lacus. Duis sodales interdum felis a varius. Curabitur auctor nunc et malesuada cursus. Maecenas ut rutrum sapien, sit amet pretium metus.
+					</p>
+				</div>
+				<div class="col-md-6 image">
+					<img src="/assets/img/events/heart-walk.jpg" class="img-responsive" alt="American Heart Association Heart Walk" />
+				</div>
+			</div>
+			
+			<div class="divider"></div>
+			
+			<div class="row feature backwards">
+				<div class="col-md-6 info">
+					<h4>Feeding the Homeless</h4>
+					<p>
+					Vivamus et quam sed tellus iaculis vehicula. Aenean pharetra ante vitae velit pulvinar, a rutrum quam auctor. Donec quis nunc augue. Phasellus tincidunt porta urna, ut luctus velit lobortis elementum. Sed eget convallis lectus, vitae laoreet enim. Nam gravida, nisl vitae maximus eleifend, lorem felis ultrices turpis, in finibus ex diam non lorem. Maecenas euismod aliquam ipsum quis tempor. Praesent pharetra id nisl vitae pharetra. Praesent tincidunt sem vitae ex congue, non euismod urna dignissim.
+					</p>
+				</div>
+				<div class="col-md-6 image">
+					<img src="/assets/img/events/standdown.jpg" class="img-responsive" alt="Feeding homeless" />
+				</div>
+			</div>
+			
+			<div class="divider"></div>
+			
+			<div class="row feature">
+				<div class="col-md-6 info">
+					<h4>Dome Tournament</h4>
+					<p>
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut aliquet eros at mi hendrerit fermentum at ac neque. Vivamus mattis lectus nec est ullamcorper, non lobortis erat tincidunt. Aenean scelerisque augue vitae lectus malesuada, ut eleifend eros pellentesque. Donec efficitur luctus justo. Vivamus leo diam, mattis eget rhoncus in, convallis a urna. Nullam non pretium lacus. Duis sodales interdum felis a varius. Curabitur auctor nunc et malesuada cursus. Maecenas ut rutrum sapien, sit amet pretium metus.
+					</p>
+				</div>
+				<div class="col-md-6 image">
+					<img src="/assets/img/events/dome-tourney.jpg" class="img-responsive" alt="Dome Tournament" />
+				</div>
+			</div>
+			
+		</div>
+	</section>
+	<!--/ Team Events -->
+{/bodyContent}

@@ -1,0 +1,5 @@
+{> "wrappers/main" /}
+
+{<bodyContent}
+
+{/bodyContent}

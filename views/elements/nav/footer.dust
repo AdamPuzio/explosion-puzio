@@ -1,0 +1,16 @@
+
+	<footer id="footer" class="footer">
+		<div class="container text-center">
+
+			<!--<h3>Play like a girl</h3>
+			
+			<ul class="social-links">
+				<li><a href="#link"><i class="fa fa-twitter fa-fw"></i></a></li>
+				<li><a href="#link"><i class="fa fa-facebook fa-fw"></i></a></li>
+				<li><a href="#link"><i class="fa fa-google-plus fa-fw"></i></a></li>
+				<li><a href="#link"><i class="fa fa-dribbble fa-fw"></i></a></li>
+				<li><a href="#link"><i class="fa fa-linkedin fa-fw"></i></a></li>
+			</ul>-->
+			&copy; 2016-17 NWB Explosion. All rights reserved
+		</div>
+	</footer>

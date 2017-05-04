@@ -1,0 +1,40 @@
+{> "wrappers/main" /}
+
+{<bodyContent}
+
+	<!-- Section -->
+	<section id="" class="section-padding player-section">
+		<div class="container">
+			
+			<div class="row header">
+				<div class="col-md-12">
+					<h2>Meet The Team</h2>
+					<p></p>
+				</div>
+			</div>
+			
+			<div class="row player">
+				<div class="col-md-6 info">
+					<h2>Skylar Puzio</h2>
+					<h4>#2 P/1B</h4>
+					<h4>Southern Lehigh Class of 2021</h4>
+					<p>
+						Skylar is...
+					</p>
+				</div>
+				<div class="col-md-6 image">
+					<img src="/assets/img/players/poster-skylar.jpg" class="img-responsive" />
+				</div>
+			</div>
+			<div class="row feature">
+				<div class="col-md-6 image">
+					<img src="/assets/img/players/poster-emma.jpg" class="img-responsive" />
+				</div>
+				<div class="col-md-6 info">
+					
+				</div>
+			</div>
+		</div>
+	</section>
+	<!--/ Section -->
+{/bodyContent}
