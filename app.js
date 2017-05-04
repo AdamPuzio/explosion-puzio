@@ -3,23 +3,18 @@ var express = require('express'),
 	adaro = require('adaro'),
 	engine = require('./engine'),
 	routes = engine.routes('routes', app);
-	//routes = require('./routes')(app);
 
 var options = {
 	
 	helpers: []
 }
 
+app.set('port', (process.env.PORT || 5000));
 app.use(express.static('public'));
 app.set('views', './views');
 app.engine('dust', adaro.dust(options));
 app.set('view engine', 'dust');
 
-app.get('/', function (req, res) {
-	//res.send('Hello World!')
-	res.render('pages/home')
-})
-
-app.listen(3000, function () {
-	console.log('Example app listening on port 3000!')
-})
+app.listen(app.get('port'), function () {
+	console.log('Node app is running on port', app.get('port'));
+});

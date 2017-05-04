@@ -8,3 +8,28 @@
     "express": "^4.15.2"
   }
 }
+{
+  "name": "explosion-puzio",
+  "version": "0.0.1",
+  "description": "Explosion - Puzio website",
+  "engines": {
+    "node": "6.10.2"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "adaro": "^1.0.4",
+    "express": "^4.15.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdamPuzio/explosion-puzio"
+  },
+  "keywords": [
+    "softball",
+    "explosion",
+    "puzio"
+  ]
+}
