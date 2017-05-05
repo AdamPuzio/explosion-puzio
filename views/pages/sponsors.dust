@@ -2,4 +2,150 @@
 
 {<bodyContent}
 
+	<!--Banner-->
+	<div class="mini-banner" style="background-image:url(/assets/img/banner/slide-safe.jpg);">
+		<div class="bg-mask">
+			<div class="container">
+				<div class="row">
+					<div class="banner-text text-center">
+						<div class="text-center">
+							<h1 class="primary-color">Sponsors</h1>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--/ Banner-->
+
+	<!-- Section -->
+	<section id="" class="section-padding sponsor-section">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+					Below is our list of sponsors for the 2016-17 season. We encourage you to support these businesses in appreciation of their commitment to our team
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="col-sm-12">
+					<dl class="dl-horizontal sponsor-primary">
+						<dt></dt>
+						<dd><h4>A &amp; A Pool Service</h4></dd>
+						<dt>Phone</dt>
+						<dd>610-863-7700</dd>
+						<dt>Address</dt>
+						<dd>1093 Bangor Rd, <br />Nazareth, PA 18064</dd>
+					</dl>
+				</div>
+				
+				<div class="col-sm-12">
+					<dl class="dl-horizontal sponsor-primary">
+						<dt></dt>
+						<dd><h4>Leiser's Rentals</h4></dd>
+						<dt>Website</dt><dd><a href="http://leisersrentals.com">http://leisersrentals.com</a></dd>
+						<dt>Email</dt><dd>leisersrental@gmail.com</dd>
+						<dt>Phone</dt><dd>610-691-3070</dd>
+						<dt>Address</dt><dd>3608 Nazareth Pike,<br />Bethlehem, PA 18020</dd>
+					</dl>
+
+				</div>
+				
+				<div class="col-sm-12">
+					
+					<dl class="dl-horizontal sponsor-primary">
+						<dt></dt>
+						<dd><h4>Pinnacle Roofing &amp; Siding</h4></dd>
+						<dt>Email</dt><dd>pinnacleroofingandsiding@verizon.net</dd>
+						<dt>Phone</dt><dd>610-487-5227 or 610-751-6269</dd>
+					</dl>
+					
+				</div>
+				
+			</div>
+			
+			<div class="row">
+				<div class="col-md-6">
+					
+					<dl class="dl-horizontal sponsor-secondary">
+						<dt></dt>
+						<dd><h4>PVT Truck &amp; Trailer Repair</h4></dd>
+						<dt>Website</dt><dd><a href="http://www.pvttruckandtrailerrepair.com">http://www.pvttruckandtrailerrepair.com</a></dd>
+						<dt>Phone</dt><dd>610-863-0216</dd>
+						<dt>Address</dt><dd>593 Male Rd, <br />Wind Gap, PA 18091</dd>
+					</dl>
+					
+				</div>
+				
+				<div class="col-md-6">
+					
+					<dl class="dl-horizontal sponsor-secondary">
+						<dt></dt>
+						<dd><h4>Ruggiero Funeral Home</h4></dd>
+						<dt>Website</dt><dd><a href="http://www.ruggierofuneralhome.com">http://www.ruggierofuneralhome.com</a></dd>
+						<dt>Email</dt><dd>sjr1@ptd.net</dd>
+						<dt>Phone</dt><dd>610-863-5750</dd>
+						<dt>Address</dt><dd>126 E. Pennsylvania Ave, <br />Pen Argyl, PA 18072</dd>
+					</dl>
+					
+				</div>
+				
+			</div>
+			
+			<div class="row">
+				
+				<div class="col-md-6">
+					
+					<dl class="dl-horizontal sponsor-secondary">
+						<dt></dt>
+						<dd><h4>K &amp; S Tire</h4></dd>
+						<dt>Email</dt><dd>kandstire@gmail.com</dd>
+						<dt>Phone</dt><dd>215-538-0322</dd>
+						<dt>Address</dt><dd>1455 N. West End Blvd, <br />Quakertown, PA 18951</dd>
+					</dl>
+					
+				</div>
+				
+				<div class="col-md-6">
+					
+					<dl class="dl-horizontal sponsor-secondary">
+						<dt></dt>
+						<dd><h4>Thrifty Car Sales</h4></dd>
+						<dt>Website</dt><dd><a href="http://www.thriftycarsales.com">http://www.thriftycarsales.com</a></dd>
+						<dt>Phone</dt><dd>610-282-1414</dd>
+						<dt>Address</dt><dd>241 S. 3rd St., <br />Coopersburg, PA 18036</dd>
+					</dl>
+					
+				</div>
+				
+			</div>
+			
+			<div class="row">
+				
+				<div class="col-md-6">
+					
+					<dl class="dl-horizontal sponsor-secondary">
+						<dt></dt>
+						<dd><h4>The Kids Clothesline</h4></dd>
+						<dt>Website</dt><dd><a href="http://www.thekidsclothesline.com">http://www.thekidsclothesline.com</a></dd>
+						<dt>Email</dt><dd>tkidsclothesline@aol.com</dd>
+						<dt>Address</dt><dd>302 N. 17th St., <br />Allentown, PA 18104</dd>
+					</dl>
+					
+				</div>
+				
+				<div class="col-md-6">
+
+					<dl class="dl-horizontal sponsor-secondary">
+						<dt></dt>
+						<dd><h4>S &amp; R Auto Care</h4></dd>
+					</dl>
+					
+				</div>
+			</div>
+		
+		</div>
+	</section>
+	<!--/ Section -->
+
 {/bodyContent}

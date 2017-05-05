@@ -20,4 +20,12 @@ module.exports = function(app){
 	app.get('/sponsors', function(req, res){
 		res.render('pages/sponsors', {});
 	})
+	
+	app.get('/resources', function(req, res){
+		res.render('pages/resources', {});
+	})
+	
+	app.get('/training', function(req, res){
+		res.render('pages/training', {});
+	})
 }

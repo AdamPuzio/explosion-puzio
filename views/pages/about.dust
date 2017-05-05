@@ -2,4 +2,28 @@
 
 {<bodyContent}
 
+	<!--Banner-->
+	<div class="mini-banner" style="background-image:url(/assets/img/banner/skylar-pitching.jpg);">
+		<div class="bg-mask">
+			<div class="container">
+				<div class="row">
+					<div class="banner-text text-center">
+						<div class="text-center">
+							<h1 class="primary-color">Explosion 14U - Puzio</h1>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--/ Banner-->
+
+	<!-- Section -->
+	<section id="" class="section-padding">
+		<div class="container">
+			
+		</div>
+	</section>
+	<!--/ Section -->
+
 {/bodyContent}

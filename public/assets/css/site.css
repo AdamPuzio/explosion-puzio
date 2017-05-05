@@ -131,6 +131,11 @@ body > section:nth-child(even) {
 .navbar-default.top-nav-collapse .navbar-nav {
   margin-top: 0;
 }
+@media (max-width: 768px) {
+  .navbar-default {
+    background-color: #F8F8F8;
+  }
+}
 /**
  * Buttons
  */
@@ -162,6 +167,26 @@ body > section:nth-child(even) {
 }
 .banner .banner-text {
   margin-top: 150px;
+}
+/**
+ * Mini Banner
+ */
+.mini-banner {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  min-height: 340px;
+  position: relative;
+}
+.mini-banner .bg-mask {
+  background-color: rgba(12, 11, 11, 0.82);
+  min-height: 340px;
+}
+.mini-banner .banner-text {
+  margin-top: 140px;
+}
+.mini-banner .banner-text h1 {
+  font-size: 40px;
 }
 /**
  * Feature
@@ -201,6 +226,33 @@ body > section:nth-child(even) {
   background-color: #DDD;
   position: relative;
   margin: 70px 0 60px;
+}
+/**
+ * Player
+ */
+.player-section .player {
+  margin-top: 40px;
+}
+.player-section .player .image {
+  padding: 20px;
+}
+/**
+ * Sponsors
+ */
+.sponsor-section h4 {
+  color: #fe0000;
+}
+.sponsor-section a {
+  color: black;
+}
+.sponsor-section dl {
+  margin-bottom: 30px;
+}
+.sponsor-section .sponsor-primary {
+  font-size: 24px;
+}
+.sponsor-section .sponsor-primary h4 {
+  font-size: 24px;
 }
 /**
  * Footer

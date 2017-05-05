@@ -2,38 +2,83 @@
 
 {<bodyContent}
 
+	<!--Banner-->
+	<div class="mini-banner" style="background-image:url(/assets/img/banner/emma-pitch.jpg);">
+		<div class="bg-mask">
+			<div class="container">
+				<div class="row">
+					<div class="banner-text text-center">
+						<div class="text-center">
+							<h1 class="primary-color">Meet the Team</h1>
+							<p class="lead">
+								
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--/ Banner-->
+
 	<!-- Section -->
 	<section id="" class="section-padding player-section">
 		<div class="container">
 			
+			<!--<div class="row header">
+				<div class="col-md-12">
+					<h1>Meet The Team</h1>
+				</div>
+			</div>-->
+			
 			<div class="row header">
 				<div class="col-md-12">
-					<h2>Meet The Team</h2>
-					<p></p>
+					<h2>Pitchers</h2>
 				</div>
 			</div>
 			
 			<div class="row player">
-				<div class="col-md-6 info">
-					<h2>Skylar Puzio</h2>
-					<h4>#2 P/1B</h4>
-					<h4>Southern Lehigh Class of 2021</h4>
-					<p>
-						Skylar is...
-					</p>
+				<div class="col-md-6 image">
+					<img src="/assets/img/players/poster-emma.jpg" class="img-responsive" />
 				</div>
 				<div class="col-md-6 image">
 					<img src="/assets/img/players/poster-skylar.jpg" class="img-responsive" />
 				</div>
-			</div>
-			<div class="row feature">
 				<div class="col-md-6 image">
-					<img src="/assets/img/players/poster-emma.jpg" class="img-responsive" />
-				</div>
-				<div class="col-md-6 info">
-					
+					<img src="/assets/img/players/poster-emily.jpg" class="img-responsive" />
 				</div>
 			</div>
+			
+			<div class="row header">
+				<div class="col-md-12">
+					<h2>Catchers</h2>
+				</div>
+			</div>
+			
+			<div class="row player">
+				
+			</div>
+			
+			<div class="row header">
+				<div class="col-md-12">
+					<h2>Infielders</h2>
+				</div>
+			</div>
+			
+			<div class="row player">
+				
+			</div>
+			
+			<div class="row header">
+				<div class="col-md-12">
+					<h2>Outfielders</h2>
+				</div>
+			</div>
+			
+			<div class="row player">
+				
+			</div>
+			
 		</div>
 	</section>
 	<!--/ Section -->

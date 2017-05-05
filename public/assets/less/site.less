@@ -162,6 +162,12 @@ body > section:nth-child(even) {
 	}
 }
 
+@media (max-width: 768px) {
+	.navbar-default {
+		background-color: #F8F8F8;
+	}
+}
+
 /**
  * Buttons
  */
@@ -197,6 +203,30 @@ body > section:nth-child(even) {
 	
 	.banner-text {
 		margin-top: 150px;
+	}
+}
+
+/**
+ * Mini Banner
+ */
+.mini-banner {
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	min-height: 340px;
+	position: relative;
+	
+	.bg-mask {
+		background-color: RGBA(12, 11, 11, 0.82);
+		min-height: 340px;
+	}
+	
+	.banner-text {
+		margin-top: 140px;
+		
+		h1 {
+			font-size: 40px;
+		}
 	}
 }
 
@@ -247,6 +277,55 @@ body > section:nth-child(even) {
 		background-color: #DDD;
 		position: relative;
 		margin: 70px 0 60px;
+	}
+}
+
+/**
+ * Player
+ */
+
+.player-section {
+
+	.player {
+		margin-top: 40px;
+		
+		.image {
+			padding: 20px;
+			
+			img {
+				
+			}
+		}
+	}
+}
+
+/**
+ * Sponsors
+ */
+.sponsor-section {
+	
+	h4 {
+		color: @primary-color;
+	}
+	
+	a {
+		color: black;
+	}
+	
+	dl {
+		margin-bottom: 30px;
+	}
+	
+	.sponsor-primary {
+		font-size: 24px;
+		
+		h4 {
+			font-size: 24px;
+		}
+	}
+	
+	.sponsor-secondary {
+		
 	}
 }
 

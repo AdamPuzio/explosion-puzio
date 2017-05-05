@@ -3,13 +3,13 @@
 {<bodyContent}
 
 	<!--Banner-->
-	<div class="mini-banner" style="background-image:url(/assets/img/banner/wieller-ready.jpg);">
+	<div class="mini-banner" style="background-image:url(/assets/img/banner/alexis-lead.jpg);">
 		<div class="bg-mask">
 			<div class="container">
 				<div class="row">
 					<div class="banner-text text-center">
 						<div class="text-center">
-							<h1 class="primary-color">Spring/Summer Schedule</h1>
+							<h1 class="primary-color">Resources</h1>
 						</div>
 					</div>
 				</div>
