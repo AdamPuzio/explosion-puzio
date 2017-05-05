@@ -254,6 +254,63 @@ body > section:nth-child(even) {
 .sponsor-section .sponsor-primary h4 {
   font-size: 24px;
 }
+@media (max-width: 450px) {
+  .sponsor-section dl {
+    overflow: hidden;
+  }
+  .sponsor-section dl .sponsor-primary h4 {
+    font-size: 16px;
+  }
+}
+/**
+ * About
+ */
+.about-section .features {
+  margin-bottom: 20px;
+}
+@media (max-width: 991px) {
+  .about-section .features .feature {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+}
+.about-section .features .feature img {
+  max-width: 40px;
+  position: relative;
+  top: 10px;
+}
+@media (min-width: 992px) {
+  .about-section .features .feature img {
+    float: left;
+  }
+}
+@media (min-width: 992px) {
+  .about-section .features .feature .info {
+    float: left;
+    width: 80%;
+    margin-left: 20px;
+  }
+}
+.about-section .features .feature .info strong {
+  display: block;
+  font-weight: 500;
+  font-size: 16px;
+  color: #444;
+  margin-top: 15px;
+}
+.about-section .features .feature .info p {
+  font-weight: normal;
+  font-size: 14px;
+  color: #797979;
+  margin-top: 10px;
+  line-height: 24px;
+}
+@media (max-width: 991px) {
+  .features .feature {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+}
 /**
  * Footer
  */

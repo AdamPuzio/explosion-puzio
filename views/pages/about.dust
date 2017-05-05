@@ -18,12 +18,60 @@
 	</div>
 	<!--/ Banner-->
 
-	<!-- Section -->
-	<section id="" class="section-padding">
+	<div class="section-padding about-section">
 		<div class="container">
 			
+			<div class="row header">
+				<div class="col-md-12">
+					<h3>Vision</h3>
+					<p>
+					Our vision is to provide a positive environment for our girls to grow into great softball players and great people
+					</p>
+				</div>
+			</div>
+			
+			<div class="row header">
+				<div class="col-md-12">
+					<h3>Values</h3>
+					<p></p>
+				</div>
+			</div>
+			
+			<div class="row features">
+				<div class="col-md-6 feature">
+					<img src="/assets/img/icon/softball-icon.png" alt="softball icon" />
+					<div class="info">
+						<strong>Teamwork</strong>
+						<p>"The strength of the team is each individual member. The strength of each member is the team." ~ Phil Jackson</p>
+					</div>
+				</div>
+				<div class="col-md-6 feature">
+					<img src="/assets/img/icon/softball-icon.png" alt="softball icon" />
+					<div class="info">
+						<strong>Dedication</strong>
+						<!--<p>"Confidence doesn't come out of nowhere. It's a result of something... hours and days and weeks and years of constant work and dedication." ~ Roger Staubauch</p>-->
+						<p>"There may be people that have more talent than you, but there's no excuse for anyone to work harder than you." ~ Derek Jeter</p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="row features">
+				<div class="col-md-6 feature">
+					<img src="/assets/img/icon/softball-icon.png" alt="softball icon" />
+					<div class="info">
+						<strong>Community</strong>
+						<p>"The best way to find yourself is to lose yourself in the service of others" ~ Mahatma Gandhi</p>
+					</div>
+				</div>
+				<div class="col-md-6 feature">
+					<img src="/assets/img/icon/softball-icon.png" alt="softball icon" />
+					<div class="info">
+						<strong>Strength</strong>
+						<p>"Sometimes you don't realize your own strength until you come face to face with your greatest weakness." ~ Susan Gale</p>
+					</div>
+				</div>
+			</div>
 		</div>
-	</section>
-	<!--/ Section -->
+	</div>
 
 {/bodyContent}

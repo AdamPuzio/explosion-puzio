@@ -3,7 +3,7 @@
 {<bodyContent}
 
 	<!--Banner-->
-	<div class="mini-banner" style="background-image:url(/assets/img/banner/wieller-ready.jpg);">
+	<div class="mini-banner" style="background-image:url(/assets/img/banner/action-01.jpg);">
 		<div class="bg-mask">
 			<div class="container">
 				<div class="row">
@@ -17,13 +17,92 @@
 		</div>
 	</div>
 	<!--/ Banner-->
-
-	<!-- Section -->
-	<section id="" class="section-padding">
+	
+	<!-- Spring Schedule -->
+	<section id="spring_schedule" class="section-padding">
 		<div class="container">
+			
+			<!-- Tournament Schedule -->
+			<div class="row header">
+				<div class="col-md-12">
+					<h2>Tournament Schedule</h2>
+					<p>2017 Spring/Summer Tournament Schedule</p>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="col-md-12">
+					<h4>May</h4>
+					<dl class="dl-horizontal">
+						<dt>May 6-7</dt>
+						<dd>Bethlehem, PA - Explosion in the Christmas City Tournament</dd>
+						<dt>May 20-21</dt>
+						<dd>Quakertown, PA - Line Drive Tournament</dd>
+					</dl>
+					
+					<h4>June</h4>
+					<dl class="dl-horizontal">
+						<dt>June 3-4</dt>
+						<dd>Lansdale, PA - June Jamboree Tournament</dd>
+						<dt>June 10-11</dt>
+						<dd>Bethlehem, PA - (16U) Fun in the Sun Tournament</dd>
+						<dt>June 24-25</dt>
+						<dd>Quakertown, PA - USSSA States</dd>
+					</dl>
+					
+					<h4>July</h4>
+					<dl class="dl-horizontal">
+						<dt>July 1-2</dt>
+						<dd>Lansdale, PA - Fireworks Classic Tournament</dd>
+						<dt>July 18-23</dt>
+						<dd>Ocean City, MD - USSSA Nationals</dd>
+					</dl>
+				</div>
+			</div>
+			
+			<!-- Tournament League -->
+			<div class="row header">
+				<div class="col-md-12">
+					<h2>Tournament League</h2>
+					<p>2017 USSSA Tournament League</p>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="col-md-12">
+					<h4>Schedule TBD</h4>
+				</div>
+			</div>
+			
+			<!-- Other Events -->
+			<div class="row header">
+				<div class="col-md-12">
+					<h2>Other Events</h2>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="col-md-12">
+					
+					<h4>April</h4>
+					<dl class="dl-horizontal">
+						<dt>April 1-2</dt>
+						<dd><del>Fundraiser - Slowpitch Tournament</del> Cancelled</dd>
+						<dt>April 9</dt>
+						<dd>Fundraiser - Bingo</dd>
+					</dl>
+					
+					<h4>May</h4>
+					<dl class="dl-horizontal">
+						<dt>May 13</dt>
+						<dd>Community - Miracle League, Volunteering</dd>
+					</dl>
+					
+				</div>
+			</div>
 			
 		</div>
 	</section>
-	<!--/ Section -->
+	<!--/ Spring Schedule -->
 
 {/bodyContent}
