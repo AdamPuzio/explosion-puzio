@@ -87,6 +87,10 @@ body > section:nth-child(even) {
 	}
 }
 
+.grayscale {
+	filter: grayscale(100%);
+}
+
 /**
  * Navigation
  */
@@ -131,7 +135,7 @@ body > section:nth-child(even) {
 				font-size: 14px;
 				font-weight: 700;
 			}
-			& > a:focus, & > a:hover {
+			& > a:focus, & > a:hover, & > a.active {
 				color: @primary-color;
 			}
 		}
@@ -171,18 +175,25 @@ body > section:nth-child(even) {
 /**
  * Buttons
  */
-.btn-highlight {
-	a {
-		background-color: @primary-color;
-		border-radius: 25px;
-		color: #ffffff !important;
+a.btn-highlight {
+	background-color: @primary-color;
+	border-radius: 25px;
+	color: #ffffff !important;
+	border: 1px solid @primary-color;
+
+	&:hover, &:focus {
 		border: 1px solid @primary-color;
-		
-		&:hover, &:focus {
-			border: 1px solid @primary-color;
-			background-color: #fff;
-			color: @primary-color !important;
-		}
+		background-color: #fff;
+		color: @primary-color !important;
+	}
+}
+
+.btn-intro {
+	border: 1px solid @primary-color;
+	
+	&:hover, &:focus {
+		color: @primary-color !important;
+		background-color: RGBA(12, 11, 11, 0.82);
 	}
 }
 
@@ -210,19 +221,27 @@ body > section:nth-child(even) {
  * Mini Banner
  */
 .mini-banner {
-	background-size: cover;
+	background-color: #000;
+	/*background-size: cover;
 	background-repeat: no-repeat;
-	background-position: center center;
+	background-position: center center;*/
 	min-height: 340px;
 	position: relative;
 	
 	.bg-mask {
 		background-color: RGBA(12, 11, 11, 0.82);
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		opacity: 0.4;
 		min-height: 340px;
 	}
 	
 	.banner-text {
-		margin-top: 140px;
+		/*margin-top: 140px;*/
+		position: absolute;
+		right: 20px;
+		bottom: 0;
 		
 		h1 {
 			font-size: 40px;
@@ -297,6 +316,13 @@ body > section:nth-child(even) {
 			}
 		}
 	}
+}
+
+/**
+ * Schedule
+ */
+.dd-location {
+	font-weight: bold;
 }
 
 /**

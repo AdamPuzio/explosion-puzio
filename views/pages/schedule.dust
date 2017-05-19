@@ -1,16 +1,15 @@
-{> "wrappers/main" /}
+{> "wrappers/main" page="schedule" /}
 
 {<bodyContent}
 
 	<!--Banner-->
-	<div class="mini-banner" style="background-image:url(/assets/img/banner/action-01.jpg);">
-		<div class="bg-mask">
-			<div class="container">
-				<div class="row">
-					<div class="banner-text text-center">
-						<div class="text-center">
-							<h1 class="primary-color">Spring/Summer Schedule</h1>
-						</div>
+	<div class="mini-banner">
+		<div class="bg-mask grayscale" style="background-image:url(/assets/img/banner/action-01.jpg);"></div>
+		<div class="container">
+			<div class="row">
+				<div class="banner-text text-center">
+					<div class="text-center">
+						<h1 class="primary-color">Spring/Summer Schedule</h1>
 					</div>
 				</div>
 			</div>
@@ -43,7 +42,7 @@
 					<h4>June</h4>
 					<dl class="dl-horizontal">
 						<dt>June 3-4</dt>
-						<dd>Lansdale, PA - June Jamboree Tournament</dd>
+						<dd>Gilbertsville, PA - June Jamboree Tournament</dd>
 						<dt>June 10-11</dt>
 						<dd>Bethlehem, PA - (16U) Fun in the Sun Tournament</dd>
 						<dt>June 24-25</dt>
@@ -70,7 +69,46 @@
 			
 			<div class="row">
 				<div class="col-md-12">
-					<h4>Schedule TBD</h4>
+					
+					<h4>May</h4>
+					<dl class="dl-horizontal">
+						<dt>Wed 5/31 </dt>
+						<dd class="dd-location">@ Forks Township Community Park</dd>
+						<dt></dt>
+						<dd>6:00pm vs. Fullerton Freeze (Field #3)</dd>
+						<dt></dt>
+						<dd>7:35pm vs. Fullerton Freeze (Field #3)</dd>
+					</dl>
+					
+					<h4>June</h4>
+					<dl class="dl-horizontal">
+						<dt>Tue 6/13 </dt>
+						<dd class="dd-location">@ Forks Township Community Park</dd>
+						<dd>6:00pm vs. Outlaws - Hobel (Field #1)</dd>
+						
+						<dt>Wed 6/14 </dt>
+						<dd class="dd-location">@ Explosion Complex</dd>
+						<dd>6:00pm vs. Outlaws - Hobel (Field #1)</dd>
+						
+						<dt>Thu 6/22 </dt>
+						<dd class="dd-location">@ Forks Township Community Park</dd>
+						<dd>6:00pm vs. Forks Thunder (Field #3)</dd>
+						<dt></dt>
+						<dd>7:35pm vs. Forks Thunder (Field #3)</dd>
+						
+						<dt>Tue 6/27 </dt>
+						<dd class="dd-location">@ Explosion Complex</dd>
+						<dd>6:00pm vs. Explosion - Koehler (Field #1)</dd>
+						
+						<dt>Wed 6/28 </dt>
+						<dd class="dd-location">@ Explosion Complex</dd>
+						<dd>6:00pm vs. Explosion - Koehler (Field #1)</dd>
+						
+						<dt>Thu 6/29 </dt>
+						<dd class="dd-location">@ Forks Township Community Park</dd>
+						<dd>6:00pm vs. Forks Thunder (Field #4)</dd>
+					</dl>
+					
 				</div>
 			</div>
 			
@@ -92,9 +130,9 @@
 						<dd>Fundraiser - Bingo</dd>
 					</dl>
 					
-					<h4>May</h4>
+					<h4>June</h4>
 					<dl class="dl-horizontal">
-						<dt>May 13</dt>
+						<dt>June 2</dt>
 						<dd>Community - Miracle League, Volunteering</dd>
 					</dl>
 					

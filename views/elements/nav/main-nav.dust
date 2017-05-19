@@ -13,11 +13,11 @@
 			</div>
 			<div class="collapse navbar-collapse" id="myNavbar">
 				<ul class="nav navbar-nav navbar-right">
-					<li><a href="/">Home</a></li>
-					<li><a href="/team">Team</a></li>
-					<li><a href="/schedule">Schedule</a></li>
-					<li><a href="/about">About Us</a></li>
-					<li><a href="/sponsors">Sponsors</a></li>
+					<li><a href="/" class="{@eq key=page value="home"}active {/eq}">Home</a></li>
+					<li><a href="/team" class="{@eq key=page value="team"}active {/eq}">Team</a></li>
+					<li><a href="/schedule" class="{@eq key=page value="schedule"}active {/eq}">Schedule</a></li>
+					<li><a href="/about" class="{@eq key=page value="about"}active {/eq}">About Us</a></li>
+					<li><a href="/sponsors" class="{@eq key=page value="sponsors"}active {/eq}">Sponsors</a></li>
 				</ul>
 			</div>
 		</div>
