@@ -5,8 +5,8 @@ var express = require('express'),
 	routes = engine.routes('routes', app);
 
 var options = {
-	
-	helpers: []
+	helpers: ['dustjs-helpers']
+	, whitespace: true
 }
 
 app.set('port', (process.env.PORT || 5000));
