@@ -1,0 +1,76 @@
+{> "wrappers/main" page="social" /}
+
+{<bodyContent}
+
+	<!--Banner-->
+	<div class="mini-banner">
+		<div class="bg-mask grayscale" style="background-image:url(/assets/img/banner/palmer-swing.jpg);"></div>
+		<div class="container">
+			<div class="row">
+				<div class="banner-text text-center">
+					<div class="text-center">
+						<h1>Social Media</h1>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--/ Banner-->
+
+	<div class="section-padding about-section">
+		<div class="container">
+			
+			<div class="row header">
+				<div class="col-md-12">
+					<h3>GameChanger</h3>
+					<p>
+						Recent Games
+					</p>
+					<p>
+						<iframe src="//gc.com/team-58fc40ba9e170900fc00000b/scoreboard?g=5&p=52362d3894554f629572a773" width="728" height="90" scrolling="no" frameborder="0"></iframe>
+					</p>
+					<p>
+						Become a Fan
+					</p>
+					<p>
+						<link href="//d2qxbjtnvyv052.cloudfront.net/media/46fc7b0719d2c02895858c74b1c1e19b/build/css/badge.css" rel="stylesheet" type="text/css" />
+						<div id="gc_badge" style="width:300px;margin-left:auto;margin-right:auto;">
+							<a href="http://www.gc.com?src=badge" title="gc.com" target="_gc"><div class="logo"></div></a>
+							<img src="//d2qxbjtnvyv052.cloudfront.net/media/0177785abc5cd57477649cb064a8a7d7/images/icons/dumbo_108x108.png" />
+							<div class="fan_of">Become a fan of</div>
+							<div class="teamname">
+								<a href="http://www.gc.com/t/summer-2017/nw-explosion-nw-explosiom-puzio-14u-58fc40ba9e170900fc00000b?src=badge&p=52362d3894554f629572a773" title="NW Explosiom-Puzio on GameChanger" target="_gc">NW Explosion-Puzio</a>
+							</div>
+						</div>
+					</p>
+				</div>
+			</div>
+			
+			<div class="row header">
+				<div class="col-md-12">
+					<h3>TeamSnap</h3>
+					<!--<p>
+						TeamSnap is the No. 1 sports team management software for coaches, managers and organizers to save time organizing their teams and groups online.
+					</p>-->
+					<p>
+						<a href="https://nwexplosionpuzio14u.teamsnap.com" target="_blank">https://nwexplosionpuzio14u.teamsnap.com</a>
+					</p>
+				</div>
+			</div>
+			
+			<div class="row header">
+				<div class="col-md-12">
+					<h3>Shutterfly</h3>
+					<!--<p>
+						Shutterfly Team Share sites make it easy to communicate, organize and share photos privately with other team members. 
+					</p>-->
+					<p>
+						<a href="https://nwexplosionpuzio14u201617.shutterfly.com" target="_blank">https://nwexplosionpuzio14u201617.shutterfly.com</a>
+					</p>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+
+{/bodyContent}

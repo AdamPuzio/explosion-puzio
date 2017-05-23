@@ -28,4 +28,8 @@ module.exports = function(app){
 	app.get('/training', function(req, res){
 		res.render('pages/training', {});
 	})
+	
+	app.get('/social', function(req, res){
+		res.render('pages/social', {});
+	})
 }
