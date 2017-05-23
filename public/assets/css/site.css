@@ -188,7 +188,7 @@ a.btn-highlight:focus {
   /*background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;*/
-  min-height: 340px;
+  min-height: 400px;
   position: relative;
 }
 .mini-banner .bg-mask {
@@ -197,7 +197,7 @@ a.btn-highlight:focus {
   background-repeat: no-repeat;
   background-position: center center;
   opacity: 0.4;
-  min-height: 340px;
+  min-height: 400px;
 }
 .mini-banner .banner-text {
   /*margin-top: 140px;*/
