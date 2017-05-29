@@ -78,7 +78,7 @@
 						The Explosion Complex is located in Bethlehem, PA and features 3 dedicated softball fields and an indoor facility. This allows our teams to train year-round. 
 					</p>
 					<p>
-						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3027.77645338135!2d-75.40741644866377!3d40.63481167923889!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c43f1c0008857f%3A0x98e37c6c91b6722!2s1500+Kaywin+Ave%2C+Bethlehem%2C+PA+18018!5e0!3m2!1sen!2sus!4v1495526919611" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+						<iframe class="dynamic-iframe" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3027.77645338135!2d-75.40741644866377!3d40.63481167923889!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c43f1c0008857f%3A0x98e37c6c91b6722!2s1500+Kaywin+Ave%2C+Bethlehem%2C+PA+18018!5e0!3m2!1sen!2sus!4v1495526919611" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 					</p>
 				</div>
 			</div>

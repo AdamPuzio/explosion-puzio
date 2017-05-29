@@ -26,8 +26,12 @@
 					<p>
 						Recent Games
 					</p>
-					<p>
+					<p class="hidden-sm hidden-xs">
 						<iframe src="//gc.com/team-58fc40ba9e170900fc00000b/scoreboard?g=5&p=52362d3894554f629572a773" width="728" height="90" scrolling="no" frameborder="0"></iframe>
+						<!--<iframe src="//gc.com/team-58fc40ba9e170900fc00000b/scoreboard?g=3&p=52362d3894554f629572a773" width="470" height="110" scrolling="no" frameborder="0"></iframe>-->
+					</p>
+					<p class="hidden-md hidden-lg">
+						<a href="https://gc.com/download" target="_blank"><img src="/assets/img/icon/gc-app-icon.png" /></a>
 					</p>
 					<p>
 						Become a Fan
@@ -53,7 +57,7 @@
 						TeamSnap is the No. 1 sports team management software for coaches, managers and organizers to save time organizing their teams and groups online.
 					</p>-->
 					<p>
-						<a href="https://nwexplosionpuzio14u.teamsnap.com" target="_blank">https://nwexplosionpuzio14u.teamsnap.com</a>
+						<a href="https://nwexplosionpuzio14u.teamsnap.com" class="dynamic-link" target="_blank">https://nwexplosionpuzio14u.teamsnap.com</a>
 					</p>
 				</div>
 			</div>
@@ -65,7 +69,7 @@
 						Shutterfly Team Share sites make it easy to communicate, organize and share photos privately with other team members. 
 					</p>-->
 					<p>
-						<a href="https://nwexplosionpuzio14u201617.shutterfly.com" target="_blank">https://nwexplosionpuzio14u201617.shutterfly.com</a>
+						<a href="https://nwexplosionpuzio14u201617.shutterfly.com" class="dynamic-link" target="_blank">https://nwexplosionpuzio14u201617.shutterfly.com</a>
 					</p>
 				</div>
 			</div>

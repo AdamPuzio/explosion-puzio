@@ -45,6 +45,15 @@ a:hover,
 a:focus {
   color: #fe0000;
 }
+.dynamic-iframe {
+  width: 90%;
+  max-width: 600px;
+}
+@media (max-width: 768px) {
+  .dynamic-link {
+    font-size: 3vw;
+  }
+}
 /**
  * Custom
  */
