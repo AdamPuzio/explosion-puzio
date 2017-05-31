@@ -17,8 +17,25 @@
 	</div>
 	<!--/ Banner-->
 
-	<div class="section-padding about-section">
+	<div class="section-padding social-section">
 		<div class="container">
+			
+			<div class="row header">
+				<div class="col-md-12">
+					<h3>Social Media</h3>
+				</div>
+			</div>
+			
+			<div class="row social-media">
+				<div class="col-xs-12 text-center">
+					<a href="http://fb.me/explosion.puzio" class="dynamic-link" target="_blank">
+						<i class="fa fa-facebook-official fa-4" aria-hidden="true"></i>
+					</a>
+					<a href="http://twitter.com/explosion_puzio" class="dynamic-link" target="_blank">
+						<i class="fa fa-twitter-square fa-4" aria-hidden="true"></i>
+					</a>
+				</div>
+			</div>
 			
 			<div class="row header">
 				<div class="col-md-12">
