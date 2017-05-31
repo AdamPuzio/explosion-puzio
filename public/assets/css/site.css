@@ -287,6 +287,9 @@ a.btn-highlight:focus {
 .social-section .social-media i.fa.fa-twitter-square {
   color: #0084b4;
 }
+.social-section .social-media i.fa.fa-instagram {
+  color: #8a3ab9;
+}
 @media (min-width: 769px) {
   .social-section .social-media i.fa {
     font-size: 150px;
